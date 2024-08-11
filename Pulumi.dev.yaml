@@ -1,0 +1,8 @@
+config:
+  pulumi_playground:backendPort: "3000"
+  pulumi_playground:database: cart
+  pulumi_playground:frontendPort: "3001"
+  pulumi_playground:mongoHost: mongodb://mongo:27017
+  pulumi_playground:mongoPort: "27017"
+  pulumi_playground:nodeEnvironment: development
+  pulumi_playground:protocol: http://
